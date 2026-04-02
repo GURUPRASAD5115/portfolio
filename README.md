@@ -4,7 +4,7 @@ This is my personal developer portfolio website where I showcase my projects, sk
 
 🌐 Live Website
 
-👉 https://guruprasad-dev.netlify.app
+👉 https://guruprasad5115.netlify.app
 
 📖 About the Project
 
